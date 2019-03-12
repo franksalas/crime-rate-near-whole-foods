@@ -1,6 +1,10 @@
 Crime rate near Whole Foods
 ==============================
 
+
+![img](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Whole_Foods_Market_logo.svg/200px-Whole_Foods_Market_logo.svg.png)
+
+
 is it safer to live near Whole Foods then other supermarket chain?
 
 Project Organization
